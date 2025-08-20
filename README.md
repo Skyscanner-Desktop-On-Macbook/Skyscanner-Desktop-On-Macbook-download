@@ -64,7 +64,6 @@ This repository provides a technical, SEO-friendly **Skyscanner Mac download** g
 
 ## 🖼 Preview (screenshots)
 
-> Use the direct image URLs below in the README. Ensure the same links are used in your repository.
 
 ![Flight Search Dashboard](https://flashpacking4life.de/wp-content/uploads/2014/02/Skyscanner-Interface-2024.png)
 *Explore flight results with filters and pricing.*
